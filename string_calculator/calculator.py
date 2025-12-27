@@ -1,2 +1,6 @@
 def add(numbers: str) -> int:
-    return 0
+    if numbers == "":
+        return 0
+
+    nums = numbers.split(",")
+    return sum(int(n) for n in nums)
