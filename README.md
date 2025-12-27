@@ -6,7 +6,7 @@
 
 1. Download Repository 
 2. Navigate to the project directory 
-3. Create a virtual env in terminal 
+3. Create a virtual env in terminal       
     a. python3 -m venv venv  
     b. source .venv/bin/activate
 
